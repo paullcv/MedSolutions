@@ -1,6 +1,8 @@
 @extends('layouts.form')
 {{-- @extends('layouts.app') --}}
 
+@section('title','Iniciar Sesión')
+
 @section('content')
     <!-- Page content -->
     <div class="container mt--8 pb-5">
